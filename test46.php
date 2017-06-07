@@ -1,6 +1,6 @@
 <?php
 function writeMsg() {
-    echo "Hello world! ghgfjfj";
+    echo "Hello world! ghgfjfhhhj";
 }
 
 writeMsg(); // call the function
