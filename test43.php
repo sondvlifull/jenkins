@@ -5,4 +5,4 @@ function writeMsg($&aaa) {
 }
 
 $abc = "gfgf";
-writeMsg(&$abc333); // call the function
+writeMsg(&$abc); // call the function
