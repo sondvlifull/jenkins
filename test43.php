@@ -6,3 +6,19 @@ function writeMsg($&aaa) {
 
 $abc = "gfgf";
 writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
+writeMsg(&$abc); // call the function
