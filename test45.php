@@ -1,7 +1,7 @@
 <?php
-function writeMsg($&aaa) {
+function writeMsg($&aagga) {
     echo "Hello world!";
-	echo $aaa;
+	echo $aagga;
 }
 
 $abc = "gfgf";
